@@ -6,3 +6,4 @@ Chioma needs to know more
 we are trying to understand branching
 and to do a merge
 we are trying to do this again for better undertanding
+This is learnig to see the sync update
